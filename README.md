@@ -1,4 +1,4 @@
-# HW6-GifsTatic
+GifsTatic
 https://pminhtri11.github.io/HW6-GifsTatic/
 
 Assignment:
