@@ -6,4 +6,5 @@
   2.  API
   3.  Jquery
   4.  Bootstrap
+# Deployed
 https://pminhtri11.github.io/GifsTatic/
